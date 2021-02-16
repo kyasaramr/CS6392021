@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Feb 15 22:22:16 EST 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\15512\\Downloads\\android-fundamentals-apps-v2-master\\ScrollingText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
