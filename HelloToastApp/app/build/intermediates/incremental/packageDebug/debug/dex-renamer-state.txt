@@ -1,0 +1,4 @@
+#Mon Feb 15 20:51:40 EST 2021
+base.0=C\:\\Users\\15512\\Downloads\\android-fundamentals-apps-v2-master\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

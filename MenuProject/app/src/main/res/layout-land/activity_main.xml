@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#FFFFE0">
+
+
+    <Button
+        android:id="@+id/button_newActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginEnd="230dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/round_button"
+        android:text="@string/new_activity" />
+
+    <Button
+        android:id="@+id/button_sms"
+        android:layout_width="146dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginEnd="230dp"
+        android:layout_marginBottom="240dp"
+        android:text="@string/button_sms"
+        android:background="@drawable/round_button"/>
+
+    <Button
+        android:id="@+id/button_phone"
+        android:layout_width="146dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginEnd="230dp"
+        android:layout_marginBottom="200dp"
+        android:text="@string/button_phone"
+        android:background="@drawable/round_button"/>
+
+    <Button
+        android:id="@+id/button_web"
+        android:layout_width="146dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginEnd="230dp"
+        android:layout_marginBottom="160dp"
+        android:text="@string/button_web"
+        android:background="@drawable/round_button"/>
+
+    <Button
+        android:id="@+id/button_map"
+        android:layout_width="146dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginEnd="230dp"
+        android:layout_marginBottom="120dp"
+        android:text="@string/button_map"
+        android:background="@drawable/round_button"/>
+
+    <Button
+        android:id="@+id/button_share"
+        android:layout_width="146dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginEnd="230dp"
+        android:layout_marginBottom="80dp"
+        android:text="@string/button_share"
+        android:background="@drawable/round_button"/>
+
+
+</RelativeLayout>

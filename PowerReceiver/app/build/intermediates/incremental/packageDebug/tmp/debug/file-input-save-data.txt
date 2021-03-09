@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 08 23:55:58 EST 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Assignment\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
