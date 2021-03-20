@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MilesToKilometers</string>
+    <string name="convert_to_kilometers">Convert To Kilometers</string>
+    <string name="converted_num">0</string>
+    <string name="enter_miles">Enter Miles:</string>
+
+</resources>
