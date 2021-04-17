@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:preference-v7:26.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/246da9aac0691fe234c236cdd55b2b89/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/246da9aac0691fe234c236cdd55b2b89/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/246da9aac0691fe234c236cdd55b2b89/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/56a4d4a1db954abb8ce09192632d655a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/56a4d4a1db954abb8ce09192632d655a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/56a4d4a1db954abb8ce09192632d655a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/207c5277c0f55c0d3f6dce1b7a491540/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/207c5277c0f55c0d3f6dce1b7a491540/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/207c5277c0f55c0d3f6dce1b7a491540/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/preference-v7/26.1.0/4cf0d0f6ccfedc2cad385c76c8db91ef417177a1/preference-v7-26.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 16 20:29:49 EDT 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\15512\\OneDrive\\Documents\\CS6392021-master\\ImplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
